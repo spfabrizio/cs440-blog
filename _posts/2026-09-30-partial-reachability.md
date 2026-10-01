@@ -19,4 +19,4 @@ The claim proposed is very reasonable since the authors have demonstrated their 
 
 ## Connections
 
-While Gao-Rexford demonstrated how local routing rules can ensure global stability without any central planning, this paper highlights the flipside of that approach; that is, even stable routing need not lead to uniform reachability. This relates to my [Week 1 post](/2026/09/24/internet-invariants/) as both papers highlight how persistent behavior on the Internet reveals its underlying architecture.
+While Gao-Rexford demonstrated how local routing rules can ensure global stability without any central planning, this paper highlights the flipside of that approach; that is, even stable routing need not lead to uniform reachability. This relates to the Week 1 post as both papers highlight how persistent behavior on the Internet reveals its underlying architecture.
