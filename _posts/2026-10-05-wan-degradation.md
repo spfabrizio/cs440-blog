@@ -5,7 +5,7 @@ date: 2026-10-06
 paper_authors: "B. Arzani, S. Taheri, P. Namyar, R. Beckett, S. K. R. Kakarla, E. Jallilipour"
 paper_venue: "SIGCOMM 2025"
 paper_url: "https://doi.org/10.1145/3718958.3754348"
-week: 3
+week: 2
 tags: [WAN, traffic engineering, reliability, optimization]
 ---
 
