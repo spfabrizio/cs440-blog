@@ -20,3 +20,4 @@ This methodology seems plausible due to the use of OpenFLAME with the existing D
 ## Connections
 
 It ties in with the Week 1 paper in that both explore the impact that the design of Internet infrastructure has on application functionality. It ties in with the QUIC paper in that both pose privacy concerns with regard to networking technology, even though OpenFLAME concerns access control for spatial data and not information revealed by network traffic.
+
